@@ -20,5 +20,4 @@ Movecraftでは自分で1からブロックを積み上げて軍艦 航空機 �
 
 **IP: tac.ruskserver.com Ver 1.16-1.20.2**
 
-#### [Discord](https://discord.gg/npWwCFEtw3)
-
+#### [Discord](https://discord.gg/yCFxKm5jR8)
