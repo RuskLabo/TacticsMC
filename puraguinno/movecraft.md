@@ -18,14 +18,20 @@
 
 ## 基本的な看板の説明
 
-#### Craft
+#### Craft:
 
 `<Movecraftの種類>`
 
-この看板を右クリックすることでMovecraft化ができます。看板の3行目はMovecraftの名前を設定することができます
+#### この看板を右クリックすることでMovecraft化ができます。看板の3行目はMovecraftの名前を設定することができます。`<Movecraftの種類>`は`Movecraftの種類であるAirshipやShipなどに置き換えてください`
 
-#### Release <a href="#user-content-release" id="user-content-release"></a>
+#### Release: <a href="#user-content-release" id="user-content-release"></a>
 
 `Release`
 
-この看板は右クリックすることでMovecraft化を解除することができます
+この看板は右クリックすることでMovecraft化を解除することができます。
+
+#### Helm: <a href="#user-content-helm" id="user-content-helm"></a>
+
+`[Helm]`
+
+この看板は右クリックすることでMovecraftを方向転換させることができます。
