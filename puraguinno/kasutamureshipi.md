@@ -29,3 +29,9 @@
 
 
 <figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1172459593541107712/2023-11-10_17.54.44.png?ex=65606516&#x26;is=654df016&#x26;hm=ba934b1aca902137e32ae036ad79c65a887e50dbf7a6dd5c9ee31a2483170796&#x26;" alt=""><figcaption></figcaption></figure>
+
+### STG-44
+
+
+
+<figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1172727451701481576/2023-11-11_11.39.36.png?ex=65615e8c&#x26;is=654ee98c&#x26;hm=46df825cc1044b919b86ba8ca82d85913fdd75a74d99c53234d3912920121719&#x26;" alt=""><figcaption></figcaption></figure>
