@@ -35,3 +35,9 @@
 
 
 <figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1172727451701481576/2023-11-11_11.39.36.png?ex=65615e8c&#x26;is=654ee98c&#x26;hm=46df825cc1044b919b86ba8ca82d85913fdd75a74d99c53234d3912920121719&#x26;" alt=""><figcaption></figcaption></figure>
+
+### 蜘蛛の巣
+
+
+
+<figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1173139996862062693/2023-11-12_14.55.58.png?ex=6562dec3&#x26;is=655069c3&#x26;hm=2e1f32b48f12c38cb7cc9444d37341136a6438c50c14fed2b5a3123c646c9a1f&#x26;" alt=""><figcaption></figcaption></figure>
