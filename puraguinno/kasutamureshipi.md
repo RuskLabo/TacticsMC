@@ -47,3 +47,9 @@
 
 
 <figure><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/C/Chuzume/20220212/20220212175013.png" alt="" width="188"><figcaption></figcaption></figure>
+
+### 仕掛け武器 \[仕込み杖]
+
+
+
+<figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1176982779674759188/2023-11-23_5.27.54.png?ex=6570d9a1&#x26;is=655e64a1&#x26;hm=d61246218459ac05f31485e3433e751beaccbc3e1119d7640b90b32a853ab0c8&#x26;" alt=""><figcaption></figcaption></figure>
