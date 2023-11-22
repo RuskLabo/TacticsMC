@@ -41,3 +41,9 @@
 
 
 <figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1173139996862062693/2023-11-12_14.55.58.png?ex=6562dec3&#x26;is=655069c3&#x26;hm=2e1f32b48f12c38cb7cc9444d37341136a6438c50c14fed2b5a3123c646c9a1f&#x26;" alt=""><figcaption></figcaption></figure>
+
+### &#x20;Momentum Hookshot
+
+
+
+<figure><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/C/Chuzume/20220212/20220212175013.png" alt="" width="188"><figcaption></figcaption></figure>
