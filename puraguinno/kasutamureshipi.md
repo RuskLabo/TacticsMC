@@ -12,6 +12,10 @@
 
 <figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1172457639716864080/2023-11-10_17.47.19.png?ex=65606344&#x26;is=654dee44&#x26;hm=0ea759c2092cb01cd477b993dbacc227ab7c014ac0db26abb57c90e0cc31d913&#x26;" alt=""><figcaption></figcaption></figure>
 
+## 散弾
+
+<figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1180811313857966100/2023-12-03_19.01.34.png?ex=657ec73b&#x26;is=656c523b&#x26;hm=0e5224bd6e1a38ba50e51163d96180bf621c264495937a42eca47039d2b73956&#x26;" alt=""><figcaption></figcaption></figure>
+
 ### Kar98k
 
 
@@ -19,8 +23,6 @@
 <figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1172458619950874664/2023-11-10_17.51.28.png?ex=6560642e&#x26;is=654def2e&#x26;hm=ff4ccb8fa77ce6a74d3b7b960470f07411ad43f632e1901b0b1a08aab9855dbd&#x26;" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Luger P08
-
-
 
 <figure><img src="https://cdn.discordapp.com/attachments/1163766309679534122/1172459577879560275/2023-11-10_17.55.31.png?ex=65606512&#x26;is=654df012&#x26;hm=30a4c09e80c2bce6856033104fc4634fb954c81742bcec90f2b52e0974f2011f&#x26;" alt=""><figcaption></figcaption></figure>
 
