@@ -9,3 +9,4 @@
 * [Cannons](puraguinno/cannons.md)
 * [カスタムレシピ](puraguinno/kasutamureshipi.md)
 * [Movecraft](puraguinno/movecraft.md)
+* [MCMMO](puraguinno/mcmmo.md)
